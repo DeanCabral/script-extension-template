@@ -1,0 +1,17 @@
+body {
+    background-color: #1c1d1f;
+    width: 200px;
+    height: 75px;
+}
+
+h1 {
+    color: white;
+    font-size: 21px;
+    font-weight: normal;
+}
+
+h2 {
+    color: gray;
+    font-size: 16px;
+    font-weight: normal;
+}
